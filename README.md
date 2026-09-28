@@ -31,8 +31,6 @@ Python/Django on the back end — and I deploy and run what I build on Docker an
 
 - **[booking-django](https://github.com/quoccuong03/booking-django)** — MeetSpace, a meeting-room
   booking app in Django + PostgreSQL; double-booking is prevented in the code *and* by database constraints.
-- **[Brain-Focus](https://github.com/quoccuong03/Brain-Focus)** — Android focus-training app built
-  with Kotlin and Jetpack Compose (Material 3).
 - **[react-debug-notes](https://github.com/quoccuong03/react-debug-notes)** — three React bugs written
   up the way I actually work: reproduce first, find the real root cause, then fix.
 
